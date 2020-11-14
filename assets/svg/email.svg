@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.256" height="22" viewBox="0 0 34.256 22">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_5" data-name="Grupo 5" transform="translate(-413.963 -3075)">
+    <g id="Rectángulo_27" data-name="Rectángulo 27" class="cls-1" transform="translate(414 3075)">
+      <rect class="cls-3" width="34" height="22" rx="4"/>
+      <rect class="cls-4" x="1.5" y="1.5" width="31" height="19" rx="2.5"/>
+    </g>
+    <path id="Trazado_21400" data-name="Trazado 21400" class="cls-2" d="M.542.635,15.5,10.571,30.642.635" transform="translate(415.5 3076.5)"/>
+  </g>
+</svg>

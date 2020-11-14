@@ -1,0 +1,35 @@
+<svg id="flechas" xmlns="http://www.w3.org/2000/svg" width="117.85" height="48.85" viewBox="0 0 117.85 48.85">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #e4e4e4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_6" data-name="Grupo 6" transform="translate(-1170 -513)">
+    <g id="Elipse_5" data-name="Elipse 5" class="cls-1" transform="translate(1170 513)">
+      <circle class="cls-3" cx="24.425" cy="24.425" r="24.425"/>
+      <circle class="cls-4" cx="24.425" cy="24.425" r="23.925"/>
+    </g>
+    <path id="Polígono_1" data-name="Polígono 1" class="cls-2" d="M6.5,0,13,11H0Z" transform="translate(1187 544) rotate(-90)"/>
+  </g>
+  <g id="Grupo_7" data-name="Grupo 7" transform="translate(-1170 -513)">
+    <g id="Elipse_6" data-name="Elipse 6" class="cls-1" transform="translate(1239 513)">
+      <circle class="cls-3" cx="24.425" cy="24.425" r="24.425"/>
+      <circle class="cls-4" cx="24.425" cy="24.425" r="23.925"/>
+    </g>
+    <path id="Polígono_2" data-name="Polígono 2" class="cls-2" d="M6.5,0,13,11H0Z" transform="translate(1269 531) rotate(90)"/>
+  </g>
+</svg>
